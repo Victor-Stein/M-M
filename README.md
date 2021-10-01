@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Victor-Stein (or M-M for my acquaintance), proud engineer and management enthusiast.  
-- 👀 I’m interested in Business analytics and Data science in general. I also work on some mechatronics projects occasionally (new repos will be open soon).   
-- 🌱 I’m currently learning Pandas, and several other libs for personal projects (ongoing development). Currently, I'm still a beginner but wiling to work my way up to an advanced/experienced level.
-- 💞️ I’m looking to collaborate on data analytics python projects (also open to R)
+- 👋 Hi, I am @Victor-Stein (or M-M for my acquaintances), proud engineer and management enthusiast.  
+- 👀 Passionate about Business strategy, Data science and management in general. I also work on some mechatronics projects occasionally (new repos will be open soon).   
+- 🌱 I am working Pandas, and several other libs for personal projects (ongoing development). Currently, I am still learning my trade but wiling to work my way up to an advanced/experienced level.
+- 💞️ I am looking to collaborate on data analytics python projects and open to research work (especially involving consuting and/or innovative technologies)
+- 
 - 📫 How to reach me? Send me an email and I would get back to you as soon as I can !
 
 <!---
